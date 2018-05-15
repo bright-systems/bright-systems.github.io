@@ -1,2 +1,2 @@
 # brightsystemsinc.github.io
-getbright.com website
+bright.app website
